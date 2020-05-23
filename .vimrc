@@ -7,7 +7,7 @@ set expandtab " convert tabs to spaces
 set tabstop=4 " indent using 4 spaces
 set softtabstop=4
 set smartindent
-"set number
+set number
 set relativenumber
 set cursorline
 set nowrap
