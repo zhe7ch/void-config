@@ -1,0 +1,17 @@
+!--------
+! Xft Settings
+!--------
+Xft*dpi: 96
+Xft*antialias:  true
+Xft*hinting:    true
+Xft.hintstyle:  hintslight
+Xft*rgba:       rgb
+Xft*autohint:   false
+Xft*lcdfilter:  lcddefault
+
+!--------
+! Font Settings
+!--------
+
+*.font: DejaVuSansMono Nerd Font
+
